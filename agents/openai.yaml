@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Star Launchpad"
+  short_description: "Build star-worthy AI repos from short prompts"
+  default_prompt: "Use $ai-star-launchpad to turn my AI product idea into a repo package with MVP scope, file tree, README hook, and launch-ready positioning."
