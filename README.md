@@ -25,12 +25,10 @@ AI Star Launchpad is a Codex skill for turning a short AI product prompt into a 
 
 ## Repository Layout
 
-`	ext
-SKILL.md      main instructions
-references/   heuristics and templates
-scripts/      generators and scaffold helpers
-agents/       supporting agent material
-`
+- `SKILL.md`: main instructions
+- `references/`: heuristics and templates
+- `scripts/`: generators and scaffold helpers
+- `agents/`: supporting agent material
 
 ## Scope
 
